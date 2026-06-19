@@ -1,0 +1,17 @@
+Repositorio 
+Definición: Es un lugar, ya sea local o en Internet, donde se 
+almacena el código de un proyecto. Como repositorio local, se 
+puede mencionar la herramienta Git; como repositorio remoto, se 
+pueden mencionar GitHub o GitLab.
+
+Commit
+Definición: Me gusta verlo con la siguiente analogía: como una 
+captura de pantalla de nuestro proyecto en un momento determinado,
+la cual nos permite comparar el estado actual de nuestro proyecto 
+con estados anteriores e incluso regresar a estados previos si es
+necesario.
+
+Push
+Definición: Es el comando que usamos para enviar nuestros commits 
+a un repositorio remoto que puede encontrarse en GitHub, GitLab 
+u otros repositorios remotos.
