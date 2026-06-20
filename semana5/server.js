@@ -1,5 +1,10 @@
 const express = require('express');
+const cors = require('cors');
+
 const app = express();
+
+// Permite todos los orígenes y métodos HTTP
+app.use(cors());
 
 app.use(express.json());
 
@@ -14,6 +19,13 @@ app.get('/saludo', (req, res) => {
 app.get('/mensaje/:nombre', (req, res) => {
   const nombre = req.params.nombre;
   res.send('Hola ' + nombre);
+});
+app.post('/reporte', (req, res) => {
+  const mensaje = req.body.mensaje;
+  res.json({
+    estado: "Reporte recibido",
+    mensaje: mensaje
+  });
 });
 
 app.listen(3000, () => {
