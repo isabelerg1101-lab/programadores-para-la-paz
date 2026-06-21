@@ -1,33 +1,37 @@
-const express = require('express');
-const cors = require('cors');
-
+const express = require("express");
 const app = express();
-
-// Permite todos los orígenes y métodos HTTP
-app.use(cors());
 
 app.use(express.json());
 
-app.get('/', (req, res) => {
-  res.send('Servidor activo');
+app.get("/", (req, res) => {
+  res.send("Servidor activo");
 });
 
-app.get('/saludo', (req, res) => {
-  res.send('Hola comunidad');
+app.get("/saludo", (req, res) => {
+  res.send("Hola comunidad");
 });
 
-app.get('/mensaje/:nombre', (req, res) => {
+app.get("/mensaje/:nombre", (req, res) => {
   const nombre = req.params.nombre;
-  res.send('Hola ' + nombre);
+  res.send("Hola " + nombre);
 });
-app.post('/reporte', (req, res) => {
+
+app.post("/reporte", (req, res) => {
   const mensaje = req.body.mensaje;
   res.json({
     estado: "Reporte recibido",
-    mensaje: mensaje
+    mensaje: mensaje,
+  });
+});
+
+app.post("/reporte", (req, res) => {
+  const mensaje = req.body.mensaje;
+  res.json({
+    estado: "Reporte recibido",
+    mensaje: mensaje,
   });
 });
 
 app.listen(3000, () => {
-  console.log('Servidor ejecutándose en puerto 3000');
+  console.log("Servidor ejecutándose en puerto 3000");
 });
