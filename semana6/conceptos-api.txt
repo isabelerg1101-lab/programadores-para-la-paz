@@ -1,0 +1,7 @@
+El método POST se encarga de recibir información en formato JSON. 
+En este ejemplo, recibe un mensaje enviado por el usuario y 
+devuelve una respuesta confirmando que el reporte fue recibido.
+Este metodo puede servir para que las personas registren y reporten 
+situaciones o eventos que sucedan en la comunidad. La API recibe 
+la información y luego envía una confirmación indicando que el 
+reporte fue registrado correctamente.

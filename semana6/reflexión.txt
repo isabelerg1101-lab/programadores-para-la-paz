@@ -1,0 +1,9 @@
+Por medio de las APIs las personas podrían envíar reportes o información
+importante Estas permiten que los datos lleguen a un sistema donde quedan 
+registrados y pueden ser consultados. Además, facilita el acceso y 
+divulgación de la información haciendo que esta se comparta de manera más
+ordenada y más rápida. Así la ciudadanía puede informar situaciones o 
+problemas de su entorno y ayudar a que se les dé seguimiento. Trayendo 
+beneficios como la toma de decisiones, más control y transparencia en los
+procesos comunitarios,respuestas más rápidas y eficaces acorde a las 
+necesidades de la comunidad.
