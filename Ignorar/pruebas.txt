@@ -1,5 +1,0 @@
-En la ruta http://localhost:3000 / Servidor activo
-
-En la ruta http://localhost:3000/saludo / Hola comunidad 
-
-En la ruta http://localhost:3000/mensaje/juan / Hola juan
