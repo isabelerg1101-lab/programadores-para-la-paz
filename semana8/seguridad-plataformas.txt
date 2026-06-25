@@ -1,0 +1,5 @@
+No exponer información sensible de los usuarios para garantizar su privacidad y proteger sus datos personales.
+Proteger las credenciales de acceso, evitando compartir contraseñas y utilizando autenticación en dos pasos.
+Cambiar las contraseñas periódicamente para reducir el riesgo de accesos no autorizados.
+Utilizar conexiones seguras y cifradas para evitar que la información sea interceptada o robada durante la transmisión.
+Limitar el acceso a información sensible únicamente a los administradores autorizados y registrar los accesos para facilitar el seguimiento de incidentes de seguridad.
