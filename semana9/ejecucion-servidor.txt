@@ -1,0 +1,12 @@
+Qué ocurre cuando ejecutas node server.js.
+El servidor empieza a escuchar peticiones por el puerto que definamos.
+
+
+Qué mensaje aparece en la terminal.
+Servidor ejecutándose en puerto 3000
+
+
+Qué sucede cuando visitas la ruta /estado.
+Al ingregsar a la ruta/ estado nos retorna información en formato JSON.
+
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
