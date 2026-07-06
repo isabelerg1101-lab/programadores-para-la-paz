@@ -1,0 +1,7 @@
+Escribe entre 3 y 5 historias de usuario relacionadas con una solución comunitaria o de veeduría. 
+R//
+Como ciudadano quiero recibir atención por parte de una persona cuando mi caso sea complejo para obtener una respuesta más clara y personalizada.
+Como ciudadano quiero conocer el estado de mi petición, queja o reclamo en tiempo real para evitar incertidumbre durante el proceso.
+Como ciudadano quiero recibir una respuesta dentro de un tiempo razonable para que la solución de mi solicitud no se retrase innecesariamente.
+Como funcionario quiero priorizar las solicitudes según su nivel de urgencia para reducir los tiempos de espera y atender primero los casos más críticos.
+Como coordinador quiero visualizar estadísticas sobre los tiempos de respuesta y la cantidad de solicitudes pendientes para tomar decisiones que mejoren la atención al ciudadano.

@@ -1,0 +1,19 @@
+¿Qué 2 tareas del backlog harías primero? 
+R// Registrar una incidencia y consultar el estado de la solicitud.
+
+¿Por qué son las más importantes? 
+R// Porque permiten que el ciudadano reporte su caso y haga seguimiento al proceso, reduciendo los tiempos y mejorando la atención.
+
+¿Qué significa para ti que una tarea esté “terminada”? 
+R// Que la funcionalidad cumple su objetivo dentro de la plataforma.
+
+Escribe una definición simple de terminado con al menos 3 criterios. 
+Por ejemplo: 
+● Funciona. 
+● Fue probada. 
+● Quedó registrada en Git. 
+
+RESPUESTA: 
+- Se registró la petición o incidencia.
+- Fue atendida o revisada.
+- Se notificó el resultado

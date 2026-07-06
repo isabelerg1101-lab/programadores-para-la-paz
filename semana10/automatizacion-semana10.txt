@@ -1,0 +1,14 @@
+Debe responder estas preguntas: 
+
+● ¿Qué evento activa el flujo? 
+R// El registro de una nueva petición realizada por un internauta.
+
+● ¿Qué mensaje se enviaría a Telegram? 
+R// - Se registró una nueva solicitud.
+    - Está en proceso de revisión.
+    - La gestión finalizó.
+
+● ¿Qué información no debería enviarse por seguridad? 
+R// - Contraseña.
+    - Información sensible.
+    - Claves de acceso.
