@@ -1,0 +1,10 @@
+La interfaz tendría una sección para crear una nueva causa relacionada con los cortes 
+constantes del servicio de agua, con un título, una descripción y la fecha.
+
+También tendría una lista de las causas disponibles para que los usuarios puedan conocer 
+los reportes y leer la información.
+
+Cada causa tendría un botón para apoyar la iniciativa y un contador que muestre cuántas 
+personas respaldan la causa.
+
+La interfaz debe ser clara, sencilla y no mostrar información privada de los usuarios.

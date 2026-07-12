@@ -1,0 +1,22 @@
+Entidad: Causa
+
+Campos principales:
+- id: 0074568
+- titulo: Falta de agua
+- descripcion: La empresa que presta los servicios de agua, alcantarillado y aseo de la ciudad suspende constantemente el suministro de agua, sin garantizar el mínimo vital diario a un sector de la comunidad.
+- fecha: 12 de julio de 2026
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id: 0074568a
+- causa_id: 0074568
+- usuario: Michael Jackson
+- fecha: 13 de julio de 2026
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación.
