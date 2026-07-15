@@ -1,0 +1,14 @@
+Evento: 
+Nueva causa comunitaria registrada.
+
+Acción: 
+Enviar mensaje a Telegram.
+
+Mensaje: 
+"Nueva causa registrada. Revisar la solicitud."
+
+Información que no debe enviarse: 
+Nombres completos.
+Documentos de identidad.
+Direcciones.
+Contraseñas.
