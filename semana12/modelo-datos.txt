@@ -1,0 +1,21 @@
+Entidad: Causa
+
+Campos principales:
+id: 0074878
+titulo: Negación del servicio por deuda prescrita
+descripcion: La empresa de energía se niega a atender las solicitudes de los usuarios porque existe una deuda antigua asociada al inmueble, aunque esta ya prescribió y los actuales propietarios no la adquirieron.
+fecha: 15 de julio de 2026
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma.
+
+Entidad: Apoyo
+
+Campos principales:
+id: 0074878a
+causa_id: 0074878
+usuario: Gustavo Cepeda
+fecha: 15 de julio de 2026
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación.
