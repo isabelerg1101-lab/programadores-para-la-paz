@@ -1,0 +1,9 @@
+Pregunta 7 — Describir el flujo del sistema
+R//
+Un usuario publica una causa comunitaria en la plataforma.
+El sistema almacena la información registrada.
+La causa pasa por un proceso está en proceso de validación.
+Una vez aprobada, la causa se muestra a la comunidad.
+Los usuarios pueden expresar su apoyo a la causa.
+El sistema actualiza el número de apoyos registrados.
+Se genera un documento con los datos de la causa y el apoyo registado.
